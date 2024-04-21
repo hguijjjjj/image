@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    background-color:brown;
+}
+.img-lens{
+    height: 40px;
+}
+.img-responsive{
+    width:30%;
+    float: right;
+    height:50%;
+}
+h1{
+    color:blueviolet;
+}
+h4{
+    color:aqua
+}
+p{
+    color:yellowgreen;
+}
+h5{
+    color:whitesmoke;
+}
+h2{
+    color:blue
+}
+
